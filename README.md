@@ -1,0 +1,2 @@
+# CORBA_helloworld
+使用Java语言实现CORBA服务器端、客户端输出helloworld
